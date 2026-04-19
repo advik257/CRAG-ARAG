@@ -1,0 +1,82 @@
+Company Internal IT Documentation - Enterprise Systems
+
+System Overview: This document covers internal IT systems,
+troubleshooting, access policies, and security practices.
+
+  -----------------------------------
+  SECTION 1: LOGIN & AUTHENTICATION
+  -----------------------------------
+
+Issue: Unable to login Steps: 1. Reset password via portal 2. Check CAPS
+LOCK 3. Ensure VPN connection (remote users) 4. Verify account is active
+
+Advanced: - Check Active Directory sync - Verify MFA status
+
+  -----------------------
+  SECTION 2: VPN ISSUES
+  -----------------------
+
+Issue: VPN not connecting Steps: - Restart VPN client - Check internet -
+Reinstall VPN software
+
+Known Issues: - VPN unstable on public networks
+
+  -------------------------------
+  SECTION 3: PERFORMANCE ISSUES
+  -------------------------------
+
+Issue: Portal slow Steps: - Clear browser cache - Use Chrome or Edge -
+Check system load
+
+  ------------------------------
+  SECTION 4: ACCESS MANAGEMENT
+  ------------------------------
+
+Request Access: - Submit IT ticket - Manager approval required - SLA:
+24-48 hours
+
+Revoke Access: - Immediate for terminated employees
+
+  ----------------------------------
+  SECTION 5: EMAIL & COMMUNICATION
+  ----------------------------------
+
+Issue: Not receiving emails Steps: - Check spam folder - Verify mailbox
+quota - Contact admin
+
+  ------------------------------
+  SECTION 6: SECURITY POLICIES
+  ------------------------------
+
+-   Mandatory 2FA
+-   Do not share credentials
+-   Report phishing emails
+-   Regular password updates
+
+  ------------------------------
+  SECTION 7: INCIDENT RESPONSE
+  ------------------------------
+
+Steps: 1. Identify issue 2. Contain threat 3. Notify security team 4.
+Document incident
+
+  ----------------------------------
+  SECTION 8: SOFTWARE INSTALLATION
+  ----------------------------------
+
+-   Only approved software allowed
+-   Raise request for new tools
+
+  -----------------------------
+  SECTION 9: HARDWARE SUPPORT
+  -----------------------------
+
+Issues: - Laptop overheating - Battery issues - Peripheral failures
+
+Steps: - Restart system - Run diagnostics - Contact IT support
+
+  ------------------------
+  SECTION 10: ESCALATION
+  ------------------------
+
+Level 1: Helpdesk Level 2: System Admin Level 3: Security/Engineering
