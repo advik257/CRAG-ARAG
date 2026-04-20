@@ -18,3 +18,5 @@ faiss-cpu
 rank_bm25
 structlog
 pymupdf
+streamlit
+tavily-python
