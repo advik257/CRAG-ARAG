@@ -31,4 +31,7 @@ Thumbs.db
 # Ignore specific files
 _db_store
 *_db
+env.yaml
+.env
+/env
 
